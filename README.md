@@ -12,7 +12,7 @@ In SW4STM32, import the project from GitHub using 'File > Import... > Git > Proj
 
 Or simply clone this project into your computer. Then open the IDE and import the project using 'File > Import... > General > Existing project into Workspace'.
 
-## How the recompile mbed
+## How to recompile mbed
 
 If needed, it is possible to recompile mbed library.
 
