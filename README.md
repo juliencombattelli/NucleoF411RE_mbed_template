@@ -20,4 +20,4 @@ Simply open the Code::Blocks project 'lib/mbed/mbed_builder.cbp'.
 
 To customize compilation flags, in Code::Blocks right-click on 'mbed_builder' project and then select 'Build options...'. Select 'mbed_builder' in left panel, and finaly go to 'Compiler settings > Other compiler options'.
 
-After build is finish, rename the generated '\*.a' file located in 'lib/mbed/bin/Release' to fit the name used in SW4STM32 in 'Project Properties > C/C++ Build > Settings > Tool Settings > MCU G++ Linker > Libraries'.
+After build is finished, rename the generated '\*.a' file located in 'lib/mbed/bin/Release' to fit the name used in SW4STM32 in 'Project Properties > C/C++ Build > Settings > Tool Settings > MCU G++ Linker > Libraries'.
